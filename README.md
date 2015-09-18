@@ -1,4 +1,4 @@
-A Static-Cells UITableView inside a UIViewController
+Add static cells to UITableView inside a UIViewController.
 ============================================
 
 ### What?
